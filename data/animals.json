@@ -127,6 +127,15 @@
         "goofy"
       ],
       "id": "12"
+    },
+    {
+      "name": "Mable",
+      "species": "Elephant",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "13"
     }
   ]
 }
